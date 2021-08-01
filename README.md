@@ -3,9 +3,9 @@ LeticiaDosSantos/LeticiaDosSantos is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-## Olá! Eu sou Leticia dos Santos 
+ Olá! Eu sou Leticia dos Santos 
   Atualmente estou trabalhando com PHP, Javascript e frameworks como Bootstrap e Materialize.<br>Estou aprendendo Java e Angular também.
-
+##
  <div>
   <a href="https://github.com/LeticiaDosSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaDosSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leticia-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Leticia-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Leticia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Leticia-yoda" height="150" width="150" src="https://raw.githubusercontent.com/LeticiaDosSantos/LeticiaDosSantos/main/gifLeticia.gif">
