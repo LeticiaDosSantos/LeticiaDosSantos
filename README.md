@@ -3,9 +3,9 @@ LeticiaDosSantos/LeticiaDosSantos is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
- Olá! Eu sou Leticia dos Santos 
+ ## Olá! Eu sou Leticia dos Santos 
   Atualmente estou trabalhando com PHP, Javascript e frameworks como Bootstrap e Materialize.<br>Estou aprendendo Java e Angular também.
-##
+
  <div>
   <a href="https://github.com/LeticiaDosSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaDosSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
