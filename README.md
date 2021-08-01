@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  ## Olá! Eu sou Leticia dos Santos 
- ✨ Atualmente estou trabalhando com PHP, Javascript e frameworks como Bootstrap e Materialize.<br>Estou aprendendo Java e Angular também.
+ ✨ Atualmente estou trabalhando com `PHP`, `Javascript` e frameworks como `Bootstrap` e `Materialize`.<br>Estou aprendendo `Java` e `Angular` também.
 
  <div>
   <a href="https://github.com/LeticiaDosSantos">
