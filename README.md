@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ##
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/LeticiaDosSantos/Avalie-Aqui---php/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeticiaDosSantos&repo=Avalie-Aqui---php&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/LeticiaDosSantos/Java-Faculdade/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeticiaDosSantos&repo=Java-Faculdade&theme=dracula" />
 </a>
