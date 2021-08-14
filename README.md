@@ -8,8 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/LeticiaDosSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaDosSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaDosSantos&layout=compact&langs_count=7&theme=dracula"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaDosSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaDosSantos&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -33,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <a href="https://github.com/LeticiaDosSantos/Avalie-Aqui---php/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeticiaDosSantos&repo=Avalie-Aqui---php&theme=dracula" />
-  </a>
+  </a><br>
   <a href="https://github.com/LeticiaDosSantos/Java-Faculdade/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeticiaDosSantos&repo=Java-Faculdade&theme=dracula" />
   </a>
