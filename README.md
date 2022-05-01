@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="icone PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="icone Java" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="icone Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="icone MYSQL" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="icone Oacle" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="right" alt="imagem" height="15%" width="15%" src="https://raw.githubusercontent.com/LeticiaDosSantos/LeticiaDosSantos/main/gifLeticia.gif">
 </div>
   
