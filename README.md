@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  ## Olá! Eu sou Leticia dos Santos 
- ✨ Atualmente estou trabalhando com `Java` e `Angular`. Possuo experiência com `PHP`, `ExtJs`, `Bootstrap` e `Materialize`.
+ ✨ Atualmente estou trabalhando com `Java`, `Angular` e `Vue`. Possuo experiência com `PHP`, `ExtJs`, `Bootstrap`.
 
 <div>
   <a href="https://github.com/LeticiaDosSantos">
@@ -14,13 +14,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leticia-PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Leticia-JAVA" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leticia-Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Leticia-yoda" height="15%" width="15%" src="https://raw.githubusercontent.com/LeticiaDosSantos/LeticiaDosSantos/main/gifLeticia.gif">
+  <img align="center" alt="icone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icone JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icone AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="icone VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="icone PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="icone Java" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="icone Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="imagem" height="15%" width="15%" src="https://raw.githubusercontent.com/LeticiaDosSantos/LeticiaDosSantos/main/gifLeticia.gif">
 </div>
   
 ##
