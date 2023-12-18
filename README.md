@@ -27,13 +27,14 @@ You can click the Preview link to take a look at your changes.
   <img align="right" alt="imagem" height="15%" width="15%" src="https://raw.githubusercontent.com/LeticiaDosSantos/LeticiaDosSantos/main/gifLeticia.gif">
 </div>
   
-##
+
 <div> 
   <a href="https://instagram.com/Letici_ATA" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leticia_santos250@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
 ##
 <div>
   <a href="https://github.com/LeticiaDosSantos/Avalie-Aqui---php/">
@@ -42,4 +43,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/LeticiaDosSantos/Padroes-Projetos-Java/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeticiaDosSantos&repo=Padroes-Projetos-Java&theme=dracula" />
   </a>
-</div>
+</div>-->
