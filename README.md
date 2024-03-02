@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  ## Olá! Eu sou Leticia dos Santos 
- ✨ Atualmente estou trabalhando com `Java`, `Angular` e `Vue`. Possuo experiência com `PHP`, `ExtJs`, `Bootstrap`.
+ ✨ Atualmente estou focada em trabalhar com `PHP.
 
 <div>
   <a href="https://github.com/LeticiaDosSantos">
